@@ -6,5 +6,7 @@
 
 - EDSR[[Link](https://github.com/thstkdgus35/EDSR-PyTorch)]: PyTorch version of the paper 'Enhanced Deep Residual Networks for Single Image Super-Resolution' (CVPRW 2017)
 
+- DIP[[Link](https://github.com/DmitryUlyanov/deep-image-prior)]: Image restoration with neural networks but without learning. (In unsupervised style)
+
 ## SISR dataset
 Training data: [DIV2K dataset](https://data.vision.ee.ethz.ch/cvl/DIV2K/) 
