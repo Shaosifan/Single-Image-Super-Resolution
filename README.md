@@ -15,10 +15,10 @@
 
 
 ## Combined with High-level Tasks
-### With Segmentation
+### Segmentation
 - [**DSRL**, CVPR2020] Dual Super-Resolution Learning for Semantic Segmentation.[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Dual_Super-Resolution_Learning_for_Semantic_Segmentation_CVPR_2020_paper.pdf)][[Code](https://github.com/wanglixilinx/DSRL)]
 
-### With Detection
+### Detection
 - [ICCV2019] Better to Follow, Follow to Be Better: Towards Precise Supervision of Feature Super-Resolution for Small Object Detection.[[Paper](http://vision.snu.ac.kr/project_pages/iccv19_noh/views/)]
 
 ## SISR dataset
