@@ -15,6 +15,11 @@
 
 
 ## Combined with High-level Tasks
+
+### Recognition
+
+- [**PlugNet**,ECCV2020] PlugNet: Degradation Aware Scene Text Recognition Supervised by a Pluggable Super-Resolution Unit. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600154.pdf)][[Pytorch](https://github.com/huiyang865/plugnet)]
+
 ### Segmentation
 - [**DSRL**, CVPR2020] Dual Super-Resolution Learning for Semantic Segmentation.[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Dual_Super-Resolution_Learning_for_Semantic_Segmentation_CVPR_2020_paper.pdf)][[Unofficial Code](https://github.com/Dootmaan/DSRL)]
 
