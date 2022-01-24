@@ -13,6 +13,14 @@
 - [**DIP**, CVPR2018] Deep Image Prior.[[Paper](https://sites.skoltech.ru/app/data/uploads/sites/25/2018/04/deep_image_prior.pdf)][[Pytorch](https://github.com/DmitryUlyanov/deep-image-prior)]
 - [**ZSSR**, CVPR2018] "Zero-Shot" Super-Resolution using Deep Internal Learning.[[Paper](https://arxiv.org/abs/1712.06087)][[Tensorflow](https://github.com/assafshocher/ZSSR)]
 
+## Efficient SISR
+
+- [CVPR2018] Fast, Accurate, and Lightweight Super-Resolution with Cascading Residual Network [[Paper](https://arxiv.org/abs/1803.08664)]
+- [ECCV2020] LatticeNet: Towards Lightweight Image Super-resolution with Lattice Block [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670273.pdf)]
+- [ECCV2020] Learning with Privileged Information for Efficient Image Super-Resolution [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690460.pdf)] 
+- [**SMSR**, CVPR2021] Exploring Sparsity in Image Super-Resolution for Efficient Inference[[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Exploring_Sparsity_in_Image_Super-Resolution_for_Efficient_Inference_CVPR_2021_paper.html)][[Pytorch](https://github.com/The-Learning-And-Vision-Atelier-LAVA/SMSR)]
+- [**AdderSR**, CVPR2021] AdderSR: Towards Energy Efficient Image Super-Resolution[[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Song_AdderSR_Towards_Energy_Efficient_Image_Super-Resolution_CVPR_2021_paper.html)]
+
 
 ## Combined with High-level Tasks
 
